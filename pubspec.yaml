@@ -1,0 +1,7 @@
+name: Exercice03
+version: 0.0.1
+author: Alexandre April
+description: Utilisation librairie chez github
+dependencies:
+  Exercice03Lib:
+    git: git://github.com/alapr5/exercice03lib.git
