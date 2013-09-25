@@ -5,3 +5,5 @@ ex03 example
 projet Exercice 03 -> exercice03
 
 .gitignore ?
+
+dr n'est pas collaborator pour exercice03lib
